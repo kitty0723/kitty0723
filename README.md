@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kitty0723
-- 👀 I’m interested in ... downloading all of my snapchat memories data, at once, onto my phone 
-- 🌱 I’m currently learning ... how to work this website and what i'm doing 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... music festivals and the study of drugs 
+- 🌱 I’m currently learning ... competitive coding 
+- 💞️ I’m looking to collaborate on ...staying alive
 - 📫 How to reach me ... kinleyrose23@gmail.com
 
 <!---
